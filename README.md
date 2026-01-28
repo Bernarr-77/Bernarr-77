@@ -1,68 +1,70 @@
-<h1 align="center">Olá 👋, eu sou o Bernardo</h1>
-<h3 align="center">Desenvolvedor Backend | Python | Automação</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bernardoandrade2008" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="167" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/bernarrnarciso" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="167" height="40" alt="instagram logo"  />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Backend-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Automação-Workflows-green?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20na%20prática-orange?style=flat" />
-</p>
+###
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=84&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-## 👨‍💻 Sobre mim
+###
 
-Sou um desenvolvedor com foco em **backend**, trabalhando principalmente com **Python** e **automação de processos**.
+<h1 align="center">Olá, eu sou o Bernardo</h1>
 
-Meu foco é:
-- escrever código claro e organizado  
-- entender a lógica por trás das soluções  
-- automatizar tarefas repetitivas  
-- integrar sistemas usando APIs e fluxos de dados  
+###
 
-Prefiro compreender como as coisas funcionam por baixo dos panos, em vez de apenas utilizar abstrações sem entendimento.
+<h4 align="left">Sobre mim:<br><br>Desenvolvedor com foco em backend e automação, utilizando Python para criar soluções organizadas, lógicas e orientadas a processos reais de negócio. Estudo continuamente fundamentos de programação, algoritmos e integração de sistemas, sempre priorizando clareza, aprendizado prático e evolução consistente.processos.<br><br>Meu foco é:<br><br>- Escrever código claro e organizado<br>- Entender a lógica por trás das soluções<br>- Prefiro compreender como as coisas funcionam por baixo dos panos, em vez de apenas utilizar abstrações sem entendimento.</h4>
 
----
+###
 
-## 🧠 O que estou estudando atualmente
+<p align="left">O que estou estudando atualmente:<br><br>- Python (fundamentos da linguagem, funções, estruturas de dados e frameworks)<br>- Lógica de programação e algoritmos<br>- Automação de fluxos e processos<br>- SQL e manipulação de dados<br>- Fundamentos de cloud (AWS – em aprendizado)</p>
 
-- Python (fundamentos da linguagem, funções, estruturas de dados)
-- Lógica de programação e algoritmos
-- Automação de fluxos e processos
-- SQL e manipulação de dados
-- Fundamentos de cloud (AWS – em aprendizado)
+###
 
----
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=84&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-## 🛠️ Tecnologias e Ferramentas
+###
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-</p>
+<h3 align="left">Tecnologias e Ferramentas:</h3>
 
----
+###
 
-## 📂 Projetos
+<br clear="both">
 
-Aqui você vai encontrar:
-- pequenos projetos backend
-- scripts de automação
-- exercícios práticos de estudo
-- repositórios focados em aprendizado estruturado
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36" alt="googlecloud logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="fastapi logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="git logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="redis logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="36" alt="amazonwebservices logo"  />
+</div>
 
-Cada projeto representa **prática real**, não código copiado sem entendimento.
+###
 
----
+<br clear="both">
 
-## 📫 Contato
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bernarr-77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bernarr-77&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernarr-77&radius=15&theme=gotham&area=true&order=5&custom_title=Grafico%20de%20contribui%C3%A7%C3%A3o&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
 
-- LinkedIn: *(adicione quando quiser)*
-- Fiverr: *(opcional)*
-
----
-
-<p align="center">
-  <i>Aprendendo com consistência. Evoluindo passo a passo.</i>
-</p>
+###
