@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">O que estou estudando atualmente:<br><br>- Python (fundamentos da linguagem, funções, estruturas de dados e frameworks)<br>- Lógica de programação e algoritmos<br>- Automação de fluxos e processos<br>- SQL e manipulação de dados<br>- Fundamentos de cloud (AWS – em aprendizado)</p>
+<h4 align="left">O que estou estudando atualmente:<br><br>- Python (fundamentos da linguagem, funções, estruturas de dados e frameworks)<br>- Lógica de programação e algoritmos<br>- Automação de fluxos e processos<br>- SQL e manipulação de dados<br>- Fundamentos de cloud (AWS – em aprendizado)</h4>
 
 ###
 
@@ -55,16 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="redis logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="36" alt="amazonwebservices logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bernarr-77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bernarr-77&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bernarr-77&radius=15&theme=gotham&area=true&order=5&custom_title=Grafico%20de%20contribui%C3%A7%C3%A3o&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
