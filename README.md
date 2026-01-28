@@ -1,38 +1,39 @@
-<h1 align="center">Hi 👋, I'm Bernardo</h1>
-<h3 align="center">Backend Developer | Python | Automation</h3>
+<h1 align="center">Olá 👋, eu sou o Bernardo</h1>
+<h3 align="center">Desenvolvedor Backend | Python | Automação</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Backend-blue?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/Automation-Workflows-green?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Learning%20by%20Building-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Automação-Workflows-green?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Aprendendo%20na%20prática-orange?style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Sobre mim
 
-I’m a backend-focused developer working mainly with **Python** and **automation**.
+Sou um desenvolvedor com foco em **backend**, trabalhando principalmente com **Python** e **automação de processos**.
 
-My focus is on:
-- building clear and maintainable logic  
-- automating repetitive processes  
-- integrating systems using APIs and data workflows  
+Meu foco é:
+- escrever código claro e organizado  
+- entender a lógica por trás das soluções  
+- automatizar tarefas repetitivas  
+- integrar sistemas usando APIs e fluxos de dados  
 
-I prefer understanding how things work under the hood rather than relying on abstractions without context.
-
----
-
-## 🧠 What I’m currently studying
-
-- Python (core language, functions, data structures)
-- Backend fundamentals
-- Automation workflows
-- SQL and data handling
-- Cloud fundamentals (AWS – learning phase)
+Prefiro compreender como as coisas funcionam por baixo dos panos, em vez de apenas utilizar abstrações sem entendimento.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 O que estou estudando atualmente
+
+- Python (fundamentos da linguagem, funções, estruturas de dados)
+- Lógica de programação e algoritmos
+- Automação de fluxos e processos
+- SQL e manipulação de dados
+- Fundamentos de cloud (AWS – em aprendizado)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -43,25 +44,25 @@ I prefer understanding how things work under the hood rather than relying on abs
 
 ---
 
-## 📂 Projects
+## 📂 Projetos
 
-Here you’ll find:
-- small backend experiments
-- automation scripts
-- study-driven projects
-- structured learning repositories
+Aqui você vai encontrar:
+- pequenos projetos backend
+- scripts de automação
+- exercícios práticos de estudo
+- repositórios focados em aprendizado estruturado
 
-Each project represents **practice, not tutorials copied blindly**.
+Cada projeto representa **prática real**, não código copiado sem entendimento.
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-- LinkedIn: *(add when ready)*
-- Fiverr: *(optional)*
+- LinkedIn: *(adicione quando quiser)*
+- Fiverr: *(opcional)*
 
 ---
 
 <p align="center">
-  <i>Learning consistently. Building step by step.</i>
+  <i>Aprendendo com consistência. Evoluindo passo a passo.</i>
 </p>
