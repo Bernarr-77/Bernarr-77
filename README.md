@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">O que estou estudando atualmente:<br><br>- Python (fundamentos da linguagem, funções, estruturas de dados e frameworks)<br>- Lógica de programação e algoritmos<br>- Automação de fluxos e processos<br>- SQL e manipulação de dados<br>- Fundamentos de cloud (AWS – em aprendizado)</h4>
+<h4 align="left">O que estou estudando atualmente:<br><br>- Python (fundamentos da linguagem, funções, estruturas de dados e frameworks)<br>- Lógica de programação e algoritmos<br>- Automação de fluxos e processos<br>- SQL e manipulação de dados<br></h4>
 
 ###
 
